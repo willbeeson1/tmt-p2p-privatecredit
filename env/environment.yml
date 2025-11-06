@@ -1,0 +1,13 @@
+﻿name: tmt-p2p
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - pyarrow
+  - statsmodels
+  - scikit-learn
+  - matplotlib
+  - openpyxl
+  - jupyter
